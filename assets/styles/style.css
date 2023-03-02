@@ -3,6 +3,9 @@ body,
 h1,
 h2,
 h3,
+h4,
+h5,
+h6,
 p,
 ul {
   margin: 0;
@@ -13,7 +16,7 @@ ul {
 .footer {
   background-color: #e1e1e1;
 
-  max-width: 557px;
+  max-width: 534px;
 
   display: flex;
   justify-content: center;
@@ -40,7 +43,7 @@ ul {
   flex-direction: column;
   flex-wrap: wrap;
 
-  max-width: 356px;
+  max-width: 345px;
 }
 
 #header_left,
@@ -72,6 +75,7 @@ aside h2,
   background-color: #deedcc;
 
   padding: 10px 40px 200px 40px;
+  max-width: 189px;
 }
 
 .footer_section {
