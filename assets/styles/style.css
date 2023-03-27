@@ -12,7 +12,8 @@ ul {
   padding: 0;
 }
 
-.header,
+.header, 
+.main,
 .footer {
   background-color: #e1e1e1;
 
